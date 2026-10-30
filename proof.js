@@ -13,7 +13,7 @@
     mind: GH + "Mind-Reader",
     comics: GH + "unemployment_project",
     regression: GH + "Simple-Linear-Regression-Sales-vs-Advertising-Analysis",
-    site: GH + "rohith2157.github.io",
+    site: "https://github.com/rohithportfolio/rohithportfolio.github.io",
     vlm: "https://huggingface.co/spaces/rohith2157/vlm_for_bugzero",
     github: "https://github.com/rohith2157",
     work: "#work",
